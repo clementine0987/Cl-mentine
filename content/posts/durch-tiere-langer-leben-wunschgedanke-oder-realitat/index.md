@@ -101,7 +101,9 @@ Nicht nur Furcht spielt eine Rolle.  Manche Menschen hatten einfach ihr ganzes L
 
 In Altersheimen kommen in der Regel verschiedene Tierarten vor. Am häufigsten sind Katzen oder auch Hundebesuche. Eine Katze ist jedoch in vielerlei Hinsicht besser geeignet als ein Hund. Sie ist autonom und erfordert von den Pflegenden deutlich weniger Aufwand als ein Hund oder Kaninchen, die wöchentlich ausgemistet werden müssen. 
 
-> „Ein Tier, welches immer da ist im Alltag und auch, welches mit dem Bewohner kommunizieren kann, bringt den Bewohnern mehr als ein Tier, mit dem diese Dinge nicht möglich sind“, erklärt uns Ursula Ohnewein.
+> „Ein Tier, welches immer da ist im Alltag und auch, welches mit dem Bewohner kommunizieren kann, bringt den Bewohnern mehr als ein Tier, mit dem diese Dinge nicht möglich sind“
+
+erklärt uns Ursula Ohnewein.
 
  Eine Bewohnerin hat uns mitgeteilt, dass sie sich wünsche, mehrere Tiere zu haben, die bei ihr bleiben. Sobald ein Tier in einem Pflegeheim lebt, kann es dazu kommen, dass die Bewohnenden eine enge Bindung zu diesem Tier aufbauen. 
 
