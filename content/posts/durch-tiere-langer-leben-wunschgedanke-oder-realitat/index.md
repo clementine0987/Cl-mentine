@@ -7,11 +7,7 @@ tags = ["Deutsch", "Reportage"]
 +++
 # Durch Tiere länger leben – Wunschgedanke oder Realität?
 
-{{<lead>}} 
-
-Die Einsamkeit und Unbeholfenheit können im Alter ein ständiger Begleiter sein. Es ist nachgewiesen, dass Einsamkeit gleich lebensverkürzend wirkt wie das Rauchen. Um dem entgegenzuwirken und die Lebensqualität im Alter zu verbessern, wird nun oft das Zusammenleben mit Tieren gefördert. Denn Tiere bieten Hilfe, begleiten und verstehen einen besser als manche Menschen. 
-
-{{/lead}}
+{{<lead>}} Die Einsamkeit und Unbeholfenheit können im Alter ein ständiger Begleiter sein. Es ist nachgewiesen, dass Einsamkeit gleich lebensverkürzend wirkt wie das Rauchen. Um dem entgegenzuwirken und die Lebensqualität im Alter zu verbessern, wird nun oft das Zusammenleben mit Tieren gefördert. Denn Tiere bieten Hilfe, begleiten und verstehen einen besser als manche Menschen. {{/lead}}
 
 **Von Angela Deloséa und Clémentine Verschelde** 
 
@@ -19,17 +15,11 @@ Ein leises Schleichen, kleine über den Boden tappende Pfoten, ein Windstoss und
 
 ![Abbildung 1: Die Katze Kaja im Garten des Riggishofs (27.04.24)](capture-d-ecran-2024-05-17-165220.png)
 
-
-
 #### Das Pflegeheim Riggishof
-
 
 Ein Pflegeheim liegt zwischen Wiesen, Höfen und kleinen Häusern. Wohlige Gefühle überfliegen uns direkt. Das Pflegeheim Riggishof ist fröhlich eingerichtet und vom Personal werden wir mit offenen Armen begrüsst. Anhand der Einrichtung erkennt man sofort, dass hier Tiere für die Leute nicht nur draussen in der nahe gelegenen Umgebung eine gewisse Rolle spielen, sondern auch im Inneren des Pflegeheimes. Immer wieder treffen wir auf Dekorationsstücke, welche die enge Beziehung zwischen Menschen und Tieren darstellen. 
 
-
-
 #### Das Treffen mit den Senioren
-
 
 Wir treffen auf eine Gruppe von neun Frauen und einem Mann, welche hier wohnen oder an manchen Tagen der Tagesstätte beitreten, um nicht einsam zu sein. Es ist etwas schwierig mit ihnen ins Gespräch zu kommen, einerseits, weil sie teils schlecht hören oder auf Fragen nicht 
 
@@ -41,10 +31,7 @@ eingehen können, andererseits weil sie abschweifen und lieber von früher erzä
 
 Diese Aussage einer Bewohnerin weist drauf hin, dass Tiere im Altersheim eine gute Sache sind, denn die Bewohner können ihr Leben mit Tieren geniessen, ohne sich Sorgen zu machen, wie es für das Tier nach dem eigenen Tod weiter geht. Auf diese Behauptung bekommen wir eine hundertprozentige Zustimmung der Gruppenteilnehmer.
 
-
-
-#### Die Bedeutung von Haustieren für das seelisch Erleben von älteren Menschen 
-
+#### Die Bedeutung von Haustieren für das seelisch Erleben von älteren Menschen
 
 Alle um uns sind freundlich und hilfsbereit, ebenfalls merken wir direkt, hier kennt jeder jeden, aufgrund dessen können wir uns kaum vorstellen, dass hier jemand Einsamkeit verspüren könnte. Dies ist allerdings doch 
 
@@ -62,10 +49,7 @@ Cortisol ist ein Hormon, welches in unseren Nebennieren produziert wird. Es rege
 
 Zuhörer und geben älteren Menschen das Gefühl, gebraucht zu werden. Eine Tier-Mensch Beziehung ist viel mehr als nur eine Freundschaft, sie ist oftmals sogar inniger als eine Mensch-Mensch Beziehung. Nach dem Buch «Leben mit Tieren im Alter», geschrieben von Marianne Gäng und Dennis C. Turner *(Quelle 2)* können Haustiere ihre Vitalität auf den Menschen übertragen. Das Verhalten der Tiere hat Einfluss auf die Stimmung der Besitzer. Beim Beobachten der Tiere im Freien wird deutlich, dass sich das Lächeln der Menschen nicht vermeiden lässt. Ebenfalls konnten in wissenschaftlichen Untersuchungen belegt werden, dass das Streicheln eines eigenen Tieres den Blutdruck senkt. 
 
-
-
 #### Verbesserung der Kommunikation älterer Menschen mit Hilfe von Tieren
-
 
 Wir erfahren von den Pflegenden des Altersheimes Riggishof, dass regelmässig ein Pony auf Besuch kommt, mit dem Lift bis auf die Stockwerke hochgebracht wird und auch die Zimmer der Bewohnenden aufsucht. Dies führt zu viel Lachen und Fröhlichkeit bei den Bewohnenden und erinnert an frühere Zeiten, weil die Bewohnenden aus dieser ländlichen Umgebung auch oft Pferde hielten, oder sie in der Landwirtschaft für die Arbeiten auf dem Hof eingesetzt haben. 
 
@@ -77,17 +61,13 @@ Der Hund des Heimleiters kann bei einer an Demenz erkrankten Bewohnerin, welche 
 
 ![Abbildung 4: umfrage_grizzly_de.pdf (age-stiftung.ch) (aufgerufen am 30.04.24)](capture-d-ecran-2024-05-17-165338.png)
 
-
-
 #### Mitbringen eines eigenen Haustieres ins Pflegeheim
-
 
 Leider ist es im Pflegeheim finanziell und auch oft zeitlich nicht möglich, dass die Angestellten die Pflege von Tieren übernehmen könnten, sagt Alice Oesch. Die Haltung von einem eigenen Haustier wäre unter Umständen nach Rücksprache mit der Heimleitung erlaubt. Da viele Menschen ins Pflegeheim eintreten, wenn sie schon selbst viel Hilfe benötigen, ist dies oft nicht mehr der Fall. Immer wieder werden sie aber durch Partner oder Familienangehörige mit ihrem ehemaligen Haustier besucht und verbringen zumindest Stunden in ihrem Zimmer mit den Tieren. So wurde auch schon eine geliebte Katze zu einem Mann gebracht, welcher im Sterben lag, was ihn sehr beruhigte. 
 
 ![Abbildung 5: Bewohnerin mit Pony (27.04.24)](capture-d-ecran-2024-05-17-165401.png)
 
-#### Kontroverse Meinungen 
-
+#### Kontroverse Meinungen
 
 Es gibt auch wenige, welche nicht dafürstehen, Tiere in Altersheimen unterzubringen auf Grund von hygienischen Gründen oder auch Gefahren. Dies sollte jedoch heutzutage keine Rolle mehr spielen. Denn Tierärzte sind in der heutigen Zeit so weit fortgeschritten, dass sie jegliche Impfungen und Entwurmungen für Tiere entwickelt haben. Laut Ursula Ohnewein, Tierärztin in der Tierarztpraxis Längenberg, die sich bereits intensiv mit unserem Thema befasst hat, als sie sich mit der Masterarbeit «Katzen im Alters- und Pflegeheim – Ein Beitrag zu Spiritual Care» auseinandergesetzte. In der Praxis von Frau Doktor Ohnewein begleitet sie Tier und Besitzer bis ins hohe Alter. Frau Ohnewein berichtet mit Freude ihre Patienten und deren Besitzer auf dem Lebensweg zu begleiten. 
 
@@ -99,15 +79,11 @@ Es gibt auch wenige, welche nicht dafürstehen, Tiere in Altersheimen unterzubri
 
 #### Tiere im Alltag der Pflegenden
 
-
  Es ist jedoch zu bedenken, dass Tiere im Alltag der Pflegenden ein Störfaktor (z.B. wegen Tierallergien) sein können, oder dass manche ältere Menschen Angst vor Tieren haben und sich gestresst fühlen, wenn sie mit Tieren in Kontakt kommen. Sabrina Lang hat uns umfassend informiert und alle unsere Fragen beantwortet. Sie betonte, dass sie sehr zufrieden damit sei, dass das Pflegeheim Tiere integriert und dass sie selbst als Kind Haustiere hatte. Für sie gibt es keinen Störfaktor außer der regelmäßigen Fütterung der Tiere. Die Aufgaben werden jedoch unter den Teams aufgeteilt, zum Beispiel zwischen Restauration, Pflege und so weiter.
 
 ![Abbildung 8: umfrage_grizzly_de.pdf (age-stiftung.ch) (aufgerufen am 30.04.24)](capture-d-ecran-2024-05-17-165504.png)
 
-
-
 #### Die verschiedenen Zuneigungen zu Tieren
-
 
 Natürlich verspüren nicht alle Bewohner: innen eine gleiche Zuneigung zu Tieren. Es kommt immer auf den Menschen an, wie ein Tier besuch aufgenommen wird. Erfahrungen, welche man in seinem früheren Leben mit Tieren gemacht hat, prägen nun sicherlich auch eine Wirkung eines Tieres. Wenn manche Bewohner: innen Tiere fürchten, versuchen sie oft, diese zu ignorieren oder ihnen aus dem Weg zu gehen. Wie Sabrina Lang es formuliert: 
 
@@ -118,7 +94,6 @@ Nicht nur Furcht spielt eine Rolle.  Manche Menschen hatten einfach ihr ganzes L
 ![Abbildung 7: Portrait von Sabrina Lang (18.03.24)](capture-d-ecran-2024-05-17-165531.png)
 
 #### Geeignete Tierarten für älter Personen
-
 
 In Altersheimen kommen in der Regel verschiedene Tierarten vor. Am häufigsten sind Katzen oder auch Hundebesuche. Eine Katze ist jedoch in vielerlei Hinsicht besser geeignet als ein Hund. Sie ist autonom und erfordert von den Pflegenden deutlich weniger Aufwand als ein Hund oder Kaninchen, die wöchentlich ausgemistet werden müssen. 
 
