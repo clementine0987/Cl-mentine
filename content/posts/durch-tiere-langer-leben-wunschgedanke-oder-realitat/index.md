@@ -73,7 +73,9 @@ Leider ist es im Pflegeheim finanziell und auch oft zeitlich nicht möglich, das
 
 Es gibt auch wenige, welche nicht dafürstehen, Tiere in Altersheimen unterzubringen auf Grund von hygienischen Gründen oder auch Gefahren. Dies sollte jedoch heutzutage keine Rolle mehr spielen. Denn Tierärzte sind in der heutigen Zeit so weit fortgeschritten, dass sie jegliche Impfungen und Entwurmungen für Tiere entwickelt haben. Laut Ursula Ohnewein, Tierärztin in der Tierarztpraxis Längenberg, die sich bereits intensiv mit unserem Thema befasst hat, als sie sich mit der Masterarbeit «Katzen im Alters- und Pflegeheim – Ein Beitrag zu Spiritual Care» auseinandergesetzte. In der Praxis von Frau Doktor Ohnewein begleitet sie Tier und Besitzer bis ins hohe Alter. Frau Ohnewein berichtet mit Freude ihre Patienten und deren Besitzer auf dem Lebensweg zu begleiten. 
 
-> «Natürlich können durch Tiere gewisse Gefahren entstehen, jedoch gibt es zu viele gute Vorteile, welche die Nachteile vergessen lassen.», bestätigt Ursula Ohnewein aus Erfahrung.
+> «Natürlich können durch Tiere gewisse Gefahren entstehen, jedoch gibt es zu viele gute Vorteile, welche die Nachteile vergessen lassen.»
+
+bestätigt Ursula Ohnewein aus Erfahrung.
 
 ![Abbildung 4: Portrait von Ursula Ohnewein](capture-d-ecran-2024-05-17-165421.png)
 
