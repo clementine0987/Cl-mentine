@@ -53,9 +53,9 @@ Zuhörer und geben älteren Menschen das Gefühl, gebraucht zu werden. Eine Tier
 
 Wir erfahren von den Pflegenden des Altersheimes Riggishof, dass regelmässig ein Pony auf Besuch kommt, mit dem Lift bis auf die Stockwerke hochgebracht wird und auch die Zimmer der Bewohnenden aufsucht. Dies führt zu viel Lachen und Fröhlichkeit bei den Bewohnenden und erinnert an frühere Zeiten, weil die Bewohnenden aus dieser ländlichen Umgebung auch oft Pferde hielten, oder sie in der Landwirtschaft für die Arbeiten auf dem Hof eingesetzt haben. 
 
-> „Die Bewohnenden fallen unserem Pony wortwörtlich um den Hals und möchten es am liebsten überall streicheln. So dass wir ihnen manchmal sagen müssen, dass sie es ruhiger angehen sollen, denn man muss natürlich bedenken, dass es immer noch ein Tier ist.“, so erzählt uns Sabrina Lang, eine junge Pflegende des Riggishofs, welche im Bereich Demenz arbeitet. 
+> „Die Bewohnenden fallen unserem Pony wortwörtlich um den Hals und möchten es am liebsten überall streicheln. So dass wir ihnen manchmal sagen müssen, dass sie es ruhiger angehen sollen, denn man muss natürlich bedenken, dass es immer noch ein Tier ist.“
 
-Der Hund des Heimleiters kann bei einer an Demenz erkrankten Bewohnerin, welche oft mit gesenktem Kopf dasitzt und nicht mehr verbal Kontakt aufnimmt, bewirken, dass sie den auf ihrem Schoss liegenden Hundekopf zu streicheln beginnt und ins Reden gerät. 
+So erzählt uns Sabrina Lang, eine junge Pflegende des Riggishofs, welche im Bereich Demenz arbeitet. Der Hund des Heimleiters kann bei einer an Demenz erkrankten Bewohnerin, welche oft mit gesenktem Kopf dasitzt und nicht mehr verbal Kontakt aufnimmt, bewirken, dass sie den auf ihrem Schoss liegenden Hundekopf zu streicheln beginnt und ins Reden gerät. 
 
 > «Auch mir tun die Tiere hier im Heim gut. In stressigen Zeiten können sie mich direkt beruhigen. Sie haben eindeutig eine gewisse Wirkung auf uns Menschen!», berichtet Alice Oesch Leitung, Administration und Finanzen des Pflegeheims Riggishof, begeistert. 
 
