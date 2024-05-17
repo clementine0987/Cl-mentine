@@ -57,7 +57,9 @@ Wir erfahren von den Pflegenden des Altersheimes Riggishof, dass regelmässig ei
 
 So erzählt uns Sabrina Lang, eine junge Pflegende des Riggishofs, welche im Bereich Demenz arbeitet. Der Hund des Heimleiters kann bei einer an Demenz erkrankten Bewohnerin, welche oft mit gesenktem Kopf dasitzt und nicht mehr verbal Kontakt aufnimmt, bewirken, dass sie den auf ihrem Schoss liegenden Hundekopf zu streicheln beginnt und ins Reden gerät. 
 
-> «Auch mir tun die Tiere hier im Heim gut. In stressigen Zeiten können sie mich direkt beruhigen. Sie haben eindeutig eine gewisse Wirkung auf uns Menschen!», berichtet Alice Oesch Leitung, Administration und Finanzen des Pflegeheims Riggishof, begeistert. 
+> «Auch mir tun die Tiere hier im Heim gut. In stressigen Zeiten können sie mich direkt beruhigen. Sie haben eindeutig eine gewisse Wirkung auf uns Menschen!»
+>
+>  berichtet Alice Oesch Leitung, Administration und Finanzen des Pflegeheims Riggishof, begeistert. 
 
 ![Abbildung 4: umfrage_grizzly_de.pdf (age-stiftung.ch) (aufgerufen am 30.04.24)](capture-d-ecran-2024-05-17-165338.png)
 
