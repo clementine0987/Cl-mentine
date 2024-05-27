@@ -55,11 +55,7 @@ Wir erfahren von den Pflegenden des Altersheimes Riggishof, dass regelmässig ei
 
 > „Die Bewohnenden fallen unserem Pony wortwörtlich um den Hals und möchten es am liebsten überall streicheln. So dass wir ihnen manchmal sagen müssen, dass sie es ruhiger angehen sollen, denn man muss natürlich bedenken, dass es immer noch ein Tier ist.“
 
-So erzählt uns Sabrina Lang, eine junge Pflegende des Riggishofs, welche im Bereich Demenz arbeitet. Der Hund des Heimleiters kann bei einer an Demenz erkrankten Bewohnerin, welche oft mit gesenktem Kopf dasitzt und nicht mehr verbal Kontakt aufnimmt, bewirken, dass sie den auf ihrem Schoss liegenden Hundekopf zu streicheln beginnt und ins Reden gerät. 
-
-> «Auch mir tun die Tiere hier im Heim gut. In stressigen Zeiten können sie mich direkt beruhigen. Sie haben eindeutig eine gewisse Wirkung auf uns Menschen!»
-
- berichtet Alice Oesch Leitung, Administration und Finanzen des Pflegeheims Riggishof, begeistert. 
+So erzählt uns Sabrina Lang, eine junge Pflegende des Riggishofs, welche im Bereich Demenz arbeitet. Der Hund des Heimleiters kann bei einer an Demenz erkrankten Bewohnerin, welche oft mit gesenktem Kopf dasitzt und nicht mehr verbal Kontakt aufnimmt, bewirken, dass sie den auf ihrem Schoss liegenden Hundekopf zu streicheln beginnt und ins Reden gerät. «Auch mir tun die Tiere hier im Heim gut. In stressigen Zeiten können sie mich direkt beruhigen. Sie haben eindeutig eine gewisse Wirkung auf uns Menschen!» berichtet Alice Oesch Leitung, Administration und Finanzen des Pflegeheims Riggishof, begeistert. 
 
 ![Abbildung 4: umfrage_grizzly_de.pdf (age-stiftung.ch) (aufgerufen am 30.04.24)](capture-d-ecran-2024-05-17-165338.png)
 
@@ -71,11 +67,7 @@ Leider ist es im Pflegeheim finanziell und auch oft zeitlich nicht möglich, das
 
 #### Kontroverse Meinungen
 
-Es gibt auch wenige, welche nicht dafürstehen, Tiere in Altersheimen unterzubringen auf Grund von hygienischen Gründen oder auch Gefahren. Dies sollte jedoch heutzutage keine Rolle mehr spielen. Denn Tierärzte sind in der heutigen Zeit so weit fortgeschritten, dass sie jegliche Impfungen und Entwurmungen für Tiere entwickelt haben. Laut Ursula Ohnewein, Tierärztin in der Tierarztpraxis Längenberg, die sich bereits intensiv mit unserem Thema befasst hat, als sie sich mit der Masterarbeit «Katzen im Alters- und Pflegeheim – Ein Beitrag zu Spiritual Care» auseinandergesetzte. In der Praxis von Frau Doktor Ohnewein begleitet sie Tier und Besitzer bis ins hohe Alter. Frau Ohnewein berichtet mit Freude ihre Patienten und deren Besitzer auf dem Lebensweg zu begleiten. 
-
-> «Natürlich können durch Tiere gewisse Gefahren entstehen, jedoch gibt es zu viele gute Vorteile, welche die Nachteile vergessen lassen.»
-
-bestätigt Ursula Ohnewein aus Erfahrung.
+Es gibt auch wenige, welche nicht dafürstehen, Tiere in Altersheimen unterzubringen auf Grund von hygienischen Gründen oder auch Gefahren. Dies sollte jedoch heutzutage keine Rolle mehr spielen. Denn Tierärzte sind in der heutigen Zeit so weit fortgeschritten, dass sie jegliche Impfungen und Entwurmungen für Tiere entwickelt haben. Laut Ursula Ohnewein, Tierärztin in der Tierarztpraxis Längenberg, die sich bereits intensiv mit unserem Thema befasst hat, als sie sich mit der Masterarbeit «Katzen im Alters- und Pflegeheim – Ein Beitrag zu Spiritual Care» auseinandergesetzte. In der Praxis von Frau Doktor Ohnewein begleitet sie Tier und Besitzer bis ins hohe Alter. Frau Ohnewein berichtet mit Freude ihre Patienten und deren Besitzer auf dem Lebensweg zu begleiten. «Natürlich können durch Tiere gewisse Gefahren entstehen, jedoch gibt es zu viele gute Vorteile, welche die Nachteile vergessen lassen.» bestätigt Ursula Ohnewein aus Erfahrung.
 
 ![Abbildung 4: Portrait von Ursula Ohnewein](capture-d-ecran-2024-05-17-165421.png)
 
@@ -99,11 +91,7 @@ Nicht nur Furcht spielt eine Rolle.  Manche Menschen hatten einfach ihr ganzes L
 
 #### Geeignete Tierarten für älter Personen
 
-In Altersheimen kommen in der Regel verschiedene Tierarten vor. Am häufigsten sind Katzen oder auch Hundebesuche. Eine Katze ist jedoch in vielerlei Hinsicht besser geeignet als ein Hund. Sie ist autonom und erfordert von den Pflegenden deutlich weniger Aufwand als ein Hund oder Kaninchen, die wöchentlich ausgemistet werden müssen. 
-
-> „Ein Tier, welches immer da ist im Alltag und auch, welches mit dem Bewohner kommunizieren kann, bringt den Bewohnern mehr als ein Tier, mit dem diese Dinge nicht möglich sind“
-
-erklärt uns Ursula Ohnewein.
+In Altersheimen kommen in der Regel verschiedene Tierarten vor. Am häufigsten sind Katzen oder auch Hundebesuche. Eine Katze ist jedoch in vielerlei Hinsicht besser geeignet als ein Hund. Sie ist autonom und erfordert von den Pflegenden deutlich weniger Aufwand als ein Hund oder Kaninchen, die wöchentlich ausgemistet werden müssen. „Ein Tier, welches immer da ist im Alltag und auch, welches mit dem Bewohner kommunizieren kann, bringt den Bewohnern mehr als ein Tier, mit dem diese Dinge nicht möglich sind“ erklärt uns Ursula Ohnewein.
 
  Eine Bewohnerin hat uns mitgeteilt, dass sie sich wünsche, mehrere Tiere zu haben, die bei ihr bleiben. Sobald ein Tier in einem Pflegeheim lebt, kann es dazu kommen, dass die Bewohnenden eine enge Bindung zu diesem Tier aufbauen. 
 
