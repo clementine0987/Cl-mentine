@@ -4,6 +4,7 @@ date = "2024-05-17"
 draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
+image = "capture-d-ecran-2024-05-17-165220.png"
 +++
 # Durch Tiere länger leben – Wunschgedanke oder Realität?
 
