@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Clémentine Verschelde"
-image = "/img/default-author.jpg"
+image = "/media/desert-8644055_1280.png"
 url = "/about/"
 +++
